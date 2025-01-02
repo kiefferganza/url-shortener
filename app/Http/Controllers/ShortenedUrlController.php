@@ -18,6 +18,6 @@ class ShortenedUrlController extends Controller
             'original_url' => 'url',
         ]);
         $shortenUrl = $this->urlShortener->execute($validated['original_url']);
-        return response()->json($shortenUrl);
+        return response()->json(url($shortenUrl->code));
     }
 }
