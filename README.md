@@ -101,16 +101,6 @@ Sample tests include:
 
 ---
 
-## Example Screenshots
-
-1. **Shorten URL Request**:
-   ![Shorten URL Example](shorten_url_example.png)
-
-2. **Redirection in Action**:
-   ![Redirect Example](redirect_example.png)
-
----
-
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for review.
@@ -119,5 +109,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
